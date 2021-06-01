@@ -9,6 +9,8 @@ The user must have both Node.js and MySQL installed. The user must clone the rep
 ## Project Demonstration
 Please view the videos below to see a demonstration of the functionality of the project:
 
-MySQL walkthrough: 
-API routes: 
-Insomnia walkthrough:
+MySQL walkthrough with get requests: https://drive.google.com/file/d/1HbQ2gzIuLhMHazyoDCiqdCAg5m0SahTp/view
+
+Creation and updating of new products, categories, and tags: https://drive.google.com/file/d/18WqVmuSKcGRIP_Zdd93llLUkqsSpXlkE/view
+
+Deletion of new products, categories, and tags: https://drive.google.com/file/d/11u5dJQaE1kk3ZTGsPZJxnNibEL6GTzQT/view
